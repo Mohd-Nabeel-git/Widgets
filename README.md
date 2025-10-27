@@ -2,7 +2,7 @@
 
 A sleek and responsive set of profile widgets built using **React**, **Vite**, and **ShadCN UI**, featuring a dark modern theme.
 
-🔗 **Live Demo:** [Live Demo](widgets-one-iota.vercel.app)
+🔗 **Live Demo:** [widgets-one-iota.vercel.app](widgets-one-iota.vercel.app)
 
 ---
 
